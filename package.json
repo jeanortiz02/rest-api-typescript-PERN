@@ -12,7 +12,7 @@
   },
   "author": "Jean Carlos Ortiz",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "devDependencies": {
     "@types/colors": "^1.2.1",
     "@types/cors": "^2.8.17",
